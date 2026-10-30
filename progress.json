@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:39:34.952Z",
+  "generated_at": "2026-10-30T13:47:09.625Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -77,6 +77,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-30T13:39:34.241Z",
       "last_pushed_at": "2026-10-30T13:39:34.241Z"
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-10-30T13:47:08.799Z",
+      "last_pushed_at": "2026-10-30T13:47:08.799Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
