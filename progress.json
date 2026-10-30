@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:06:07.636Z",
+  "generated_at": "2026-10-30T13:39:34.952Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -66,6 +66,17 @@
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-10-27T20:06:06.896Z",
       "last_pushed_at": "2026-10-27T20:06:06.896Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-10-30T13:39:34.241Z",
+      "last_pushed_at": "2026-10-30T13:39:34.241Z"
     }
   }
 }
